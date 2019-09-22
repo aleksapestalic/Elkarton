@@ -1,0 +1,181 @@
+C:\Users\Aleksa\source\repos\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.exe.config
+C:\Users\Aleksa\source\repos\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.exe
+C:\Users\Aleksa\source\repos\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\source\repos\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csprojAssemblyReference.cache
+C:\Users\Aleksa\source\repos\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.Form1.resources
+C:\Users\Aleksa\source\repos\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.Properties.Resources.resources
+C:\Users\Aleksa\source\repos\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.GenerateResource.cache
+C:\Users\Aleksa\source\repos\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\source\repos\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.exe
+C:\Users\Aleksa\source\repos\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.exe.config
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\bin\Debug\Google.Protobuf.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\bin\Debug\MySql.Data.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\bin\Debug\Google.Protobuf.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\bin\Debug\MySql.Data.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.Form1.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoSvemu.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.GenerateResource.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.CopyComplete
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoBolestimaOpasnosti.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoID.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmUnosNovogPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmNovaIntervencijaPostojecemPac.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.exe.config
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\bin\Debug\Google.Protobuf.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\bin\Debug\MySql.Data.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\bin\Debug\Google.Protobuf.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\bin\Debug\MySql.Data.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.Form1.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmNovaIntervencijaPostojecemPac.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoBolestimaOpasnosti.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoID.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoSvemu.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmUnosNovogPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.GenerateResource.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.CopyComplete
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmDetaljiPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencije.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI v1.1\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencijeUnos.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.exe.config
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\bin\Debug\Google.Protobuf.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\bin\Debug\MySql.Data.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\bin\Debug\Google.Protobuf.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\bin\Debug\MySql.Data.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.Form1.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmDetaljiPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencije.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencijeUnos.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmNovaIntervencijaPostojecemPac.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoBolestimaOpasnosti.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoID.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoSvemu.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmUnosNovogPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.GenerateResource.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.CopyComplete
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.exe.config
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\bin\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\bin\Debug\Google.Protobuf.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\bin\Debug\MySql.Data.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\bin\Debug\Google.Protobuf.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\bin\Debug\MySql.Data.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.Form1.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmDetaljiPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencije.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencijeUnos.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmNovaIntervencijaPostojecemPac.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoBolestimaRizika.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoID.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoSvemu.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.frmUnosNovogPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski_karton.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.GenerateResource.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.csproj.CopyComplete
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\MATURSKI skoro pa FINAL APLIKACIJA\Elektronski karton\Elektronski karton\obj\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\bin\Debug\Elektronski karton.exe.config
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\bin\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\bin\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\bin\Debug\Google.Protobuf.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\bin\Debug\MySql.Data.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\bin\Debug\Google.Protobuf.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\bin\Debug\MySql.Data.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski karton.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski_karton.Form1.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski_karton.frmDetaljiPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencije.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencijeUnos.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski_karton.frmNovaIntervencijaPostojecemPac.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoBolestimaRizika.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoID.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoSvemu.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski_karton.frmUnosNovogPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski_karton.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski karton.csproj.GenerateResource.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski karton.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski karton.csproj.CopyComplete
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - localhost - Copy\Elektronski karton\obj\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\bin\Debug\Elektronski karton.exe.config
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\bin\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\bin\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\bin\Debug\Google.Protobuf.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\bin\Debug\MySql.Data.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\bin\Debug\Google.Protobuf.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\bin\Debug\MySql.Data.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski karton.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski_karton.Form1.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski_karton.frmDetaljiPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencije.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencijeUnos.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski_karton.frmNovaIntervencijaPostojecemPac.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoBolestimaRizika.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoID.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoSvemu.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski_karton.frmUnosNovogPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski_karton.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski karton.csproj.GenerateResource.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski karton.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski karton.csproj.CopyComplete
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - server1\Elektronski karton\obj\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\bin\Debug\Elektronski karton.exe.config
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\bin\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\bin\Debug\Elektronski karton.pdb
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\bin\Debug\Google.Protobuf.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\bin\Debug\MySql.Data.dll
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\bin\Debug\Google.Protobuf.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\bin\Debug\MySql.Data.xml
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski karton.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski_karton.Form1.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski_karton.frmDetaljiPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencije.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaIntervencijeUnos.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski_karton.frmIzmenaPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski_karton.frmNovaIntervencijaPostojecemPac.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoBolestimaRizika.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoID.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski_karton.frmPretragaPoSvemu.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski_karton.frmUnosNovogPacijenta.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski_karton.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski karton.csproj.GenerateResource.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski karton.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski karton.csproj.CopyComplete
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski karton.exe
+C:\Users\Aleksa\Desktop\PROJEKTI\MATURSKI\aplikacije\Elektronski karton - serverMuva\Elektronski karton\obj\Debug\Elektronski karton.pdb
